@@ -6,7 +6,28 @@
             "rating": 9,
             "review": "A fantastic journey through an immersive world.",
             "image": "https://image.api.playstation.com/cdn/UP4781/CUSA11924_00/jFpnaAjStsemwBPwNcmypKIYwupH8y7J.png",
-            "tags": []
+            "tags": [
+                "Free to Play",
+                "Dark Fantasy",
+                "Action RPG",
+                "Hack and Slash",
+                "Loot",
+                "Multiplayer",
+                "MMORPG",
+                "Dungeon Crawler",
+                "Character Customization",
+                "Isometric",
+                "Inventory Management",
+                "Online Co-Op",
+                "Action",
+                "Singleplayer",
+                "RPG",
+                "PvP",
+                "Horror",
+                "Massively Multiplayer",
+                "Fantasy",
+                "Adventure"
+            ]
         },
         {
             "id": 2,
@@ -14,7 +35,29 @@
             "rating": 1,
             "review": "A unique blend of genres with great replay value.",
             "image": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S1-2560x1440-410a62ec21d44260409182e1174cce2e.jpg",
-            "tags": []
+            "tags": [
+                "Open World",
+                "Survival Craft",
+                "Sandbox",
+                "Survival",
+                "2D",
+                "Multiplayer",
+                "Adventure",
+                "Pixel Graphics",
+                "Crafting",
+                "Building",
+                "Exploration",
+                "Co-op",
+                "Open World",
+                "Online Co-Op",
+                "Indie",
+                "Action",
+                "RPG",
+                "Singleplayer",
+                "Replay Value",
+                "Platformer",
+                "Atmospheric"
+            ]
         },
         {
             "id": 3,
@@ -22,7 +65,28 @@
             "rating": 5,
             "review": "A challenging yet rewarding gaming adventure.",
             "image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/capsule_616x353.jpg?t=1666290860",
-            "tags": []
+            "tags": [
+                "Open World Survival Craft",
+                "Sandbox",
+                "Survival",
+                "2D",
+                "Multiplayer",
+                "Adventure",
+                "Pixel Graphics",
+                "Crafting",
+                "Building",
+                "Exploration",
+                "Co-op",
+                "Open World",
+                "Online Co-Op",
+                "Indie",
+                "Action",
+                "RPG",
+                "Singleplayer",
+                "Replay Value",
+                "Platformer",
+                "Atmospheric"
+            ]
         },
         {
             "id": 4,
@@ -30,7 +94,28 @@
             "rating": 1,
             "review": "A unique blend of genres with great replay value.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/capsule_616x353.jpg?t=1671213711",
-            "tags": []
+            "tags": [
+                "Medieval",
+                "Strategy",
+                "Open World",
+                "RPG",
+                "War",
+                "Sandbox",
+                "Multiplayer",
+                "Singleplayer",
+                "Action",
+                "Character Customization",
+                "Simulation",
+                "Moddable",
+                "Adventure",
+                "Horses",
+                "Realistic",
+                "Third Person",
+                "First-Person",
+                "Historical",
+                "Great Soundtrack",
+                "Early Access"
+            ]
         },
         {
             "id": 5,
@@ -38,7 +123,28 @@
             "rating": 7,
             "review": "A unique blend of genres with great replay value.",
             "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Valheim_2021_logo.jpg",
-            "tags": []
+            "tags": [
+                "Open World Survival Craft",
+                "Survival",
+                "Online Co-Op",
+                "Open World",
+                "Multiplayer",
+                "Building",
+                "Crafting",
+                "Exploration",
+                "Base Building",
+                "Co-op",
+                "Sandbox",
+                "Adventure",
+                "Mythology",
+                "RPG",
+                "Early Access",
+                "Action",
+                "PvE",
+                "Indie",
+                "Singleplayer",
+                "Third Person"
+            ]
         },
         {
             "id": 6,
@@ -46,7 +152,22 @@
             "rating": 4,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/899770/capsule_616x353.jpg?t=1705696381",
-            "tags": []
+            "tags": [
+                "Action RPG",
+                "Hack and Slash",
+                "RPG",
+                "Loot",
+                "Isometric",
+                "Action",
+                "Adventure",
+                "Early Access",
+                "Indie",
+                "Multiplayer",
+                "Dungeon Crawler",
+                "Singleplayer",
+                "Gore",
+                "Top-Down"
+            ]
         },
         {
             "id": 7,
@@ -54,7 +175,27 @@
             "rating": 7,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://static.wikia.nocookie.net/risk-of-rain/images/c/c1/Risk_of_Rain_2.jpg/revision/latest?cb=20190402150627",
-            "tags": []
+            "tags": [
+                "Third-Person Shooter",
+                "Action",
+                "Multiplayer",
+                "Roguelike",
+                "Co-op",
+                "Online Co-Op",
+                "Procedural Generation",
+                "Difficult",
+                "Sci-fi",
+                "Adventure",
+                "Indie",
+                "Singleplayer",
+                "Survival",
+                "RPG",
+                "Early Access",
+                "Shooter",
+                "Loot",
+                "Replay Value",
+                "Fast-Paced"
+            ]
         },
         {
             "id": 8,
@@ -62,7 +203,28 @@
             "rating": 3,
             "review": "A fantastic journey through an immersive world.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg?t=1704299959",
-            "tags": []
+            "tags": [
+                "Open World",
+                "RPG",
+                "Space",
+                "Sci-fi",
+                "Singleplayer",
+                "Adventure",
+                "First-Person",
+                "Exploration",
+                "Sandbox",
+                "Action",
+                "Shooter",
+                "Atmospheric",
+                "Story Rich",
+                "Third Person",
+                "Simulation",
+                "Strategy",
+                "Survival",
+                "Indie",
+                "Multiplayer",
+                "Early Access"
+            ]
         },
         {
             "id": 9,
@@ -70,7 +232,28 @@
             "rating": 10,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://ksr-ugc.imgix.net/assets/011/319/080/aff28b39e9afbb48f28db7475526afd2_original.png?ixlib=rb-4.1.0&crop=faces&w=1024&h=576&fit=crop&v=1463680948&auto=format&frame=1&q=92&s=e1a6f4df3c0e6d4073519965852a7e12",
-            "tags": []
+            "tags": [
+                "Space",
+                "Indie",
+                "Strategy",
+                "Roguelike",
+                "Sci-fi",
+                "Singleplayer",
+                "Difficult",
+                "Replay Value",
+                "2D",
+                "Real-Time with Pause",
+                "Perma Death",
+                "Simulation",
+                "Adventure",
+                "Action",
+                "RPG",
+                "Pixel Graphics",
+                "Top-Down",
+                "Survival",
+                "Atmospheric",
+                "Resource Management"
+            ]
         },
         {
             "id": 10,
@@ -78,7 +261,28 @@
             "rating": 4,
             "review": "An innovative and groundbreaking experience.",
             "image": "https://wstatic-prod.pubg.com/web/live/static/og/img-og-pubg.jpg",
-            "tags": []
+            "tags": [
+                "Battle Royale",
+                "Shooter",
+                "Multiplayer",
+                "Survival",
+                "Third-Person Shooter",
+                "PvP",
+                "Online Co-Op",
+                "First-Person",
+                "Action",
+                "Strategy",
+                "Tactical",
+                "Competitive",
+                "Military",
+                "Realistic",
+                "Adventure",
+                "Open World",
+                "Early Access",
+                "Massively Multiplayer",
+                "Co-op",
+                "eSports"
+            ]
         },
         {
             "id": 11,
@@ -86,7 +290,28 @@
             "rating": 9,
             "review": "Incredibly fun and addicting gameplay.",
             "image": "https://xxboxnews.blob.core.windows.net/prod/sites/2/2021/08/NMS_Frontiers_Hero.jpg",
-            "tags": []
+            "tags": [
+                "Open World",
+                "Open World Survival Craft",
+                "Space",
+                "Exploration",
+                "Sci-fi",
+                "Survival",
+                "Procedural Generation",
+                "Adventure",
+                "First-Person",
+                "Sandbox",
+                "Singleplayer",
+                "Multiplayer",
+                "Atmospheric",
+                "Crafting",
+                "Space Sim",
+                "Indie",
+                "Action",
+                "Simulation",
+                "FPS",
+                "VR"
+            ]
         },
         {
             "id": 12,
@@ -94,7 +319,28 @@
             "rating": 2,
             "review": "A unique blend of genres with great replay value.",
             "image": "https://www.gamespace.com/wp-content/uploads/2019/04/Satisfactory_KeyArt_1_1920x1080_Logo.png",
-            "tags": []
+            "tags": [
+                "Open World",
+                "Building",
+                "Survival",
+                "Crafting",
+                "Sandbox",
+                "Multiplayer",
+                "Singleplayer",
+                "First-Person",
+                "Exploration",
+                "Strategy",
+                "Simulation",
+                "Sci-fi",
+                "Adventure",
+                "Action",
+                "Indie",
+                "Co-op",
+                "Online Co-Op",
+                "Early Access",
+                "Resource Management",
+                "Automation"
+            ]
         },
         {
             "id": 13,
@@ -102,7 +348,28 @@
             "rating": 5,
             "review": "An innovative and groundbreaking experience.",
             "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063730/header.jpg?t=1695753023",
-            "tags": []
+            "tags": [
+                "MMORPG",
+                "Open World",
+                "Multiplayer",
+                "Adventure",
+                "Action",
+                "Survival",
+                "Crafting",
+                "PvP",
+                "Fantasy",
+                "PvE",
+                "Massively Multiplayer",
+                "Singleplayer",
+                "Sandbox",
+                "Exploration",
+                "Strategy",
+                "RPG",
+                "Early Access",
+                "Atmospheric",
+                "Online Co-Op",
+                "Building"
+            ]
         },
         {
             "id": 14,
@@ -110,7 +377,28 @@
             "rating": 7,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1669000/header.jpg?t=1701684160",
-            "tags": []
+            "tags": [
+                "Strategy",
+                "Turn-Based Strategy",
+                "Fantasy",
+                "RPG",
+                "Turn-Based",
+                "Multiplayer",
+                "Singleplayer",
+                "4X",
+                "Tactical",
+                "Adventure",
+                "Action",
+                "Indie",
+                "Online Co-Op",
+                "PvP",
+                "Early Access",
+                "Atmospheric",
+                "Exploration",
+                "Open World",
+                "Simulation",
+                "Building"
+            ]
         },
         {
             "id": 15,
@@ -118,7 +406,28 @@
             "rating": 8,
             "review": "A fantastic journey through an immersive world.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/49520/header.jpg?t=1693524237",
-            "tags": []
+            "tags": [
+                "Looter Shooter",
+                "FPS",
+                "Multiplayer",
+                "Co-op",
+                "Action",
+                "Online Co-Op",
+                "RPG",
+                "Open World",
+                "Adventure",
+                "Comedy",
+                "Sci-fi",
+                "Singleplayer",
+                "Shooter",
+                "First-Person",
+                "Post-apocalyptic",
+                "Funny",
+                "PvP",
+                "Survival",
+                "Exploration",
+                "Replay Value"
+            ]
         },
         {
             "id": 16,
@@ -126,7 +435,28 @@
             "rating": 6,
             "review": "Incredibly fun and addicting gameplay.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/233860/capsule_616x353.jpg?t=1677606321",
-            "tags": []
+            "tags": [
+                "Open World",
+                "Survival",
+                "Sandbox",
+                "Strategy",
+                "RPG",
+                "Indie",
+                "Singleplayer",
+                "Simulation",
+                "Building",
+                "Post-apocalyptic",
+                "Crafting",
+                "Real-Time with Pause",
+                "Adventure",
+                "Action",
+                "Difficult",
+                "Atmospheric",
+                "Exploration",
+                "Sci-fi",
+                "Base Building",
+                "Resource Management"
+            ]
         },
         {
             "id": 17,
@@ -134,7 +464,28 @@
             "rating": 6,
             "review": "Incredibly fun and addicting gameplay.",
             "image": "https://portforward.com/deep-rock-galactic/deep-rock-galactic-header-small.webp",
-            "tags": []
+            "tags": [
+                "Co-op",
+                "FPS",
+                "Multiplayer",
+                "Action",
+                "Online Co-Op",
+                "Sci-fi",
+                "Shooter",
+                "First-Person",
+                "Procedural Generation",
+                "Adventure",
+                "Roguelike",
+                "Indie",
+                "4 Player Local",
+                "PvE",
+                "Singleplayer",
+                "Survival",
+                "Difficult",
+                "Atmospheric",
+                "Exploration",
+                "Replay Value"
+            ]
         },
         {
             "id": 18,
@@ -142,7 +493,28 @@
             "rating": 4,
             "review": "Incredibly fun and addicting gameplay.",
             "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337520/capsule_616x353.jpg?t=1699995226",
-            "tags": []
+            "tags": [
+                "Indie",
+                "Action",
+                "Roguelike",
+                "Platformer",
+                "Pixel Graphics",
+                "Singleplayer",
+                "Multiplayer",
+                "2D",
+                "Difficult",
+                "Adventure",
+                "Sci-fi",
+                "Atmospheric",
+                "Survival",
+                "RPG",
+                "Procedural Generation",
+                "Co-op",
+                "Online Co-Op",
+                "Replay Value",
+                "Exploration",
+                "Strategy"
+            ]
         },
         {
             "id": 19,
@@ -150,7 +522,28 @@
             "rating": 6,
             "review": "A challenging yet rewarding gaming adventure.",
             "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_616x353.jpg?t=1666917466",
-            "tags": []
+            "tags": [
+                "RPG",
+                "Farming Sim",
+                "Simulation",
+                "Singleplayer",
+                "Pixel Graphics",
+                "Indie",
+                "Casual",
+                "Adventure",
+                "Sandbox",
+                "Crafting",
+                "Multiplayer",
+                "Co-op",
+                "Open World",
+                "Atmospheric",
+                "Exploration",
+                "Strategy",
+                "Building",
+                "Cute",
+                "2D",
+                "Relaxing"
+            ]
         },
         {
             "id": 20,
@@ -158,7 +551,28 @@
             "rating": 7,
             "review": "A challenging yet rewarding gaming adventure.",
             "image": "https://ksr-ugc.imgix.net/assets/024/203/723/795e703607cb3d2125b62601e36c3092_original.png?ixlib=rb-4.1.0&crop=faces&w=1552&h=873&fit=crop&v=1551110019&auto=format&frame=1&q=92&s=f05bad44071aba0239c72e1c72e75864",
-            "tags": []
+            "tags": [
+                "Indie",
+                "Simulation",
+                "Strategy",
+                "Space",
+                "Sci-fi",
+                "Building",
+                "Sandbox",
+                "Singleplayer",
+                "Early Access",
+                "Resource Management",
+                "Base Building",
+                "Management",
+                "Open World",
+                "Exploration",
+                "Survival",
+                "Crafting",
+                "Adventure",
+                "Action",
+                "RPG",
+                "Atmospheric"
+            ]
         },
         {
             "id": 21,
@@ -166,7 +580,28 @@
             "rating": 3,
             "review": "Incredibly fun and addicting gameplay.",
             "image": "https://switchplayer.net/wp-content/uploads/2020/09/Heroes-of-Hammerwatch-Ultimate-Edition-review-1024x576-1.jpg",
-            "tags": []
+            "tags": [
+                "Roguelite",
+                "Action Roguelike",
+                "Pixel Graphics",
+                "Co-op",
+                "RPG",
+                "Multiplayer",
+                "Dungeon Crawler",
+                "Online Co-Op",
+                "Indie",
+                "Action",
+                "Adventure",
+                "2D",
+                "Procedural Generation",
+                "Hack and Slash",
+                "Top-Down",
+                "Roguelike",
+                "Singleplayer",
+                "Bullet Hell",
+                "Action RPG",
+                "Fantasy"
+            ]
         },
         {
             "id": 22,
@@ -174,7 +609,28 @@
             "rating": 4,
             "review": "Incredibly fun and addicting gameplay.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg?t=1705604554",
-            "tags": []
+            "tags": [
+                "RPG",
+                "Choices Matter",
+                "Character Customization",
+                "Story Rich",
+                "Turn-Based Combat",
+                "Dungeons & Dragons",
+                "Adventure",
+                "CRPG",
+                "Fantasy",
+                "Online Co-Op",
+                "Multiplayer",
+                "Romance",
+                "Strategy",
+                "Singleplayer",
+                "Co-op Campaign",
+                "Class-Based",
+                "Dark Fantasy",
+                "Sexual Content",
+                "Combat",
+                "Controller"
+            ]
         },
         {
             "id": 23,
@@ -182,7 +638,28 @@
             "rating": 10,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/219990/capsule_616x353.jpg?t=1700170200",
-            "tags": []
+            "tags": [
+                "Action RPG",
+                "Hack and Slash",
+                "Dark Fantasy",
+                "RPG",
+                "Loot",
+                "Dungeon Crawler",
+                "Co-op",
+                "Dark",
+                "Multiplayer",
+                "Singleplayer",
+                "Fantasy",
+                "Action",
+                "Adventure",
+                "Isometric",
+                "Atmospheric",
+                "Post-apocalyptic",
+                "Indie",
+                "Zombies",
+                "Kickstarter",
+                "Crowdfunded"
+            ]
         },
         {
             "id": 24,
@@ -190,7 +667,28 @@
             "rating": 3,
             "review": "An innovative and groundbreaking experience.",
             "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Dyson_Sphere_Program_cover.jpg",
-            "tags": []
+            "tags": [
+                "Space",
+                "Automation",
+                "Base Building",
+                "Building",
+                "Open World",
+                "Resource Management",
+                "Simulation",
+                "Sci-fi",
+                "Management",
+                "Sandbox",
+                "City Builder",
+                "Strategy",
+                "Singleplayer",
+                "Space Sim",
+                "3D",
+                "Third Person",
+                "Early Access",
+                "Indie",
+                "RTS",
+                "Casual"
+            ]
         },
         {
             "id": 25,
@@ -198,7 +696,28 @@
             "rating": 1,
             "review": "A fantastic journey through an immersive world.",
             "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/Divinity_Original_Sin_cover.png",
-            "tags": []
+            "tags": [
+                "RPG",
+                "Turn-Based",
+                "Co-op",
+                "Fantasy",
+                "Adventure",
+                "Strategy",
+                "Open World",
+                "Isometric",
+                "CRPG",
+                "Story Rich",
+                "Kickstarter",
+                "Singleplayer",
+                "Indie",
+                "Multiplayer",
+                "Turn-Based Strategy",
+                "Magic",
+                "Online Co-Op",
+                "Crowdfunded",
+                "Atmospheric",
+                "Female Protagonist"
+            ]
         },
         {
             "id": 26,
@@ -206,7 +725,7 @@
             "rating": 8,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://images.evga.com/seo/precisionx1/EN.jpg",
-            "tags": []
+            "tags": ["Utilities", "Software", "Free to Play"]
         },
         {
             "id": 27,
@@ -214,7 +733,28 @@
             "rating": 1,
             "review": "A challenging yet rewarding gaming adventure.",
             "image": "https://cdn2.unrealengine.com/featured-carousel-1920x1080-1920x1080-a2238016961c.jpg",
-            "tags": []
+            "tags": [
+                "Mechs",
+                "Simulation",
+                "FPS",
+                "Action",
+                "Shooter",
+                "Co-op",
+                "Vehicular Combat",
+                "First-Person",
+                "Moddable",
+                "Destruction",
+                "3D",
+                "Singleplayer",
+                "Online Co-Op",
+                "Combat",
+                "Futuristic",
+                "Tutorial",
+                "Economy",
+                "Management",
+                "PvE",
+                "Resource Management"
+            ]
         },
         {
             "id": 28,
@@ -222,7 +762,28 @@
             "rating": 10,
             "review": "A unique blend of genres with great replay value.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg?t=1701658983",
-            "tags": []
+            "tags": [
+                "Multiplayer",
+                "Open World",
+                "Open World Survival Craft",
+                "Survival",
+                "Space",
+                "Exploration",
+                "Base Building",
+                "Co-op",
+                "Sandbox",
+                "Adventure",
+                "Building",
+                "Crafting",
+                "Sci-fi",
+                "Automation",
+                "Singleplayer",
+                "Third Person",
+                "Colorful",
+                "Atmospheric",
+                "Simulation",
+                "Indie"
+            ]
         },
         {
             "id": 29,
@@ -230,7 +791,27 @@
             "rating": 7,
             "review": "A challenging yet rewarding gaming adventure.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/435150/capsule_616x353.jpg?t=1668591196",
-            "tags": []
+            "tags": [
+                "Tactical RPG",
+                "RPG",
+                "Turn-Based Strategy",
+                "Story Rich",
+                "Fantasy",
+                "Exploration",
+                "CRPG",
+                "Character Customization",
+                "Party-Based RPG",
+                "Strategy RPG",
+                "PvP",
+                "Female Protagonist",
+                "Co-op Campaign",
+                "Local Co-Op",
+                "Choices Matter",
+                "Isometric",
+                "Romance",
+                "Strategy",
+                "Moddable"
+            ]
         },
         {
             "id": 30,
@@ -238,7 +819,28 @@
             "rating": 2,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/596970/capsule_616x353.jpg?t=1661865792",
-            "tags": []
+            "tags": [
+                "Steampunk",
+                "Lovecraftian",
+                "Exploration",
+                "RPG",
+                "Story Rich",
+                "Singleplayer",
+                "Top-Down",
+                "Atmospheric",
+                "Indie",
+                "Survival",
+                "Adventure",
+                "Roguelike",
+                "Trains",
+                "Dark",
+                "Kickstarter",
+                "Sequel",
+                "Crowdfunded",
+                "Great Soundtrack",
+                "Alternate History",
+                "2D"
+            ]
         },
         {
             "id": 31,
@@ -246,7 +848,28 @@
             "rating": 4,
             "review": "An innovative and groundbreaking experience.",
             "image": "https://cdn-ext.fanatical.com/production/product/1280x720/e998f096-d6f7-4f0b-aa13-0b25c9d3094e.jpeg",
-            "tags": []
+            "tags": [
+                "Early Access",
+                "Online Co-Op",
+                "Pixel Graphics",
+                "Open World Survival Craft",
+                "Sandbox",
+                "Adventure",
+                "Survival",
+                "Crafting",
+                "2D",
+                "Exploration",
+                "Building",
+                "Dungeon Crawler",
+                "Procedural Generation",
+                "Mining",
+                "Farming Sim",
+                "Relaxing",
+                "Cooking",
+                "Simulation",
+                "Atmospheric",
+                "Mystery"
+            ]
         },
         {
             "id": 32,
@@ -254,55 +877,181 @@
             "rating": 10,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://images.gog-statics.com/7c4cd2e23abe549391b2a009eba3bc45c6096cb7c46a9d297c1054da64f2acb1_product_card_v2_mobile_slider_639.jpg",
-            "tags": []
+            "tags": [
+                "RPG",
+                "Open World",
+                "Survival",
+                "Co-op",
+                "Online Co-Op",
+                "Souls-like",
+                "Fantasy",
+                "Local Co-Op",
+                "Adventure",
+                "Split Screen",
+                "Exploration",
+                "Multiplayer",
+                "Singleplayer",
+                "Third Person",
+                "Difficult",
+                "Atmospheric",
+                "Resource Management",
+                "Realistic",
+                "Moddable",
+                "Violent"
+            ]
         },
         {
             "id": 33,
-            "name": "Nosgoth",
-            "rating": 3,
-            "review": "A unique blend of genres with great replay value.",
-            "image": "https://s1.mmommorpg.com/media/wide/nosgoth-game-online.jpg",
-            "tags": []
-        },
-        {
-            "id": 34,
             "name": "Warhammer 40,000: Inquisitor - Prophecy",
             "rating": 6,
             "review": "Incredibly fun and addicting gameplay.",
             "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/527430/capsule_616x353.jpg?t=1704982707",
-            "tags": []
+            "tags": [
+                "Action",
+                "Adventure",
+                "RPG",
+                "Warhammer 40K",
+                "Indie",
+                "Hack and Slash",
+                "Action RPG",
+                "Multiplayer",
+                "Violent",
+                "Games Workshop",
+                "Sci-fi",
+                "Online Co-Op",
+                "Isometric",
+                "Story Rich",
+                "Open World",
+                "Aliens",
+                "Dark",
+                "Sexual Content",
+                "Demons",
+                "Destruction"
+            ]
         },
         {
-            "id": 35,
+            "id": 34,
             "name": "Enter the Gungeon",
             "rating": 1,
             "review": "A challenging yet rewarding gaming adventure.",
             "image": "https://cdn.akamai.steamstatic.com/steam/apps/311690/header.jpg?t=1691624090",
-            "tags": []
+            "tags": [
+                "Bullet Hell",
+                "Action Roguelike",
+                "Roguelike",
+                "Pixel Graphics",
+                "Difficult",
+                "Dungeon Crawler",
+                "Indie",
+                "Local Co-Op",
+                "Twin Stick Shooter",
+                "Multiplayer",
+                "Action",
+                "2D",
+                "Co-op",
+                "Top-Down",
+                "Shooter",
+                "Singleplayer",
+                "Loot",
+                "Roguelite",
+                "Cute",
+                "Funny"
+            ]
         },
         {
-            "id": 36,
+            "id": 35,
             "name": "Battle Brothers",
             "rating": 3,
             "review": "An engaging game with a great story and mechanics.",
             "image": "https://cdn.akamai.steamstatic.com/steam/apps/365360/capsule_616x353.jpg?t=1692780266",
-            "tags": []
+            "tags": [
+                "Strategy",
+                "Medieval",
+                "RPG",
+                "Open World",
+                "War",
+                "Sandbox",
+                "Action",
+                "Character Customization",
+                "Turn-Based Strategy",
+                "Tactical",
+                "Simulation",
+                "Turn-Based Tactics",
+                "Moddable",
+                "Replay Value",
+                "Tactical RPG",
+                "Historical",
+                "Turn-Based",
+                "Turn-Based Combat",
+                "Singleplayer",
+                "Adventure"
+            ]
         },
         {
-            "id": 37,
+            "id": 36,
             "name": "ARK: Survival Evolved",
             "rating": 5,
             "review": "A fantastic journey through an immersive world.",
             "image": "https://cdn.akamai.steamstatic.com/steam/apps/346110/header.jpg?t=1702590643",
-            "tags": []
+            "tags": [
+                "Open World Survival Craft",
+                "Survival",
+                "Multiplayer",
+                "Open World",
+                "Dinosaurs",
+                "Crafting",
+                "Building",
+                "Adventure",
+                "Base Building",
+                "Co-op",
+                "Action",
+                "First-Person",
+                "Sandbox",
+                "Massively Multiplayer",
+                "Singleplayer",
+                "Early Access",
+                "RPG",
+                "Dragons",
+                "Sci-fi",
+                "Indie"
+            ]
         },
         {
-            "id": 38,
+            "id": 37,
             "name": "Factorio",
             "rating": 9,
             "review": "A unique blend of genres with great replay value.",
             "image": "https://images.gog-statics.com/fd1f632099404d13bb4a9c2ce3f1284e92058e00078b28baf5e6858887e5c505_product_card_v2_mobile_slider_639.jpg",
-            "tags": []
+            "tags": [
+                "Automation",
+                "Base Building",
+                "Resource Management",
+                "Sandbox",
+                "Crafting",
+                "Strategy",
+                "Multiplayer",
+                "Survival",
+                "Management",
+                "Open World",
+                "Building",
+                "Co-op",
+                "2D",
+                "Moddable",
+                "Singleplayer",
+                "Trains",
+                "Simulation",
+                "Pixel Graphics",
+                "City Builder",
+                "Indie"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "test",
+            "password": "test"
         }
     ]
+    
 }

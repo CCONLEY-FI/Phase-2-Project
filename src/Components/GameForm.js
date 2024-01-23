@@ -1,91 +1,87 @@
-import React, { useState } from 'react';
+// GameForm.js
+import React, { useState, useEffect } from "react";
 
-function GameForm({ onSubmit }) {
-  // Initial form state setup
-  const [formData, setFormData] = useState({
-    name: '',
-    rating: '',
-    review: '',
-    image: '', // Placeholder or default image URL can go here
-    tags: []
-  });
+function GameForm({ onSubmit, gameToUpdate }) {
+    const [gameData, setGameData] = useState({
+        name: "",
+        rating: 0,
+        review: "",
+        image: "",
+        tags: "",
+    });
 
-  // Update form data as input fields change
-  const handleChange = (event) => {
-    const { name, value } = event.target;
-    setFormData(prevFormData => ({
-      ...prevFormData,
-      [name]: value,
-    }));
-  };
+    useEffect(() => {
+        if (gameToUpdate) {
+            setGameData({
+                ...gameToUpdate,
+                tags: gameToUpdate.tags.join(", ") // Convert the array of tags to a comma-separated string
+            });
+        }
+    }, [gameToUpdate]);
 
-  // Handle form submit
-  const handleSubmit = async (event) => {
-    event.preventDefault();
-    try {
-      // Call the passed onSubmit prop, which is expected to be the POST request logic
-      await onSubmit(formData);
-      // Clear the form data after successful submission
-      setFormData({
-        name: '',
-        rating: '',
-        review: '',
-        image: '',
-        tags: []
-      });
-    } catch (error) {
-      console.error("Error submitting the form: ", error);
-    }
-  };
+    const handleChange = (event) => {
+        const { name, value } = event.target;
+        setGameData((prevState) => ({
+            ...prevState,
+            [name]: value
+        }));
+    };
 
-  // Form JSX
-  return (
-    <form onSubmit={handleSubmit} style={{margin: '20px'}}>
-      <div>
-        <label htmlFor="name">Game Name:</label>
-        <input
-          id="name"
-          name="name"
-          type="text"
-          value={formData.name}
-          onChange={handleChange}
-        />
-      </div>
-      <div>
-        <label htmlFor="rating">Rating (1-10):</label>
-        <input
-          id="rating"
-          name="rating"
-          type="number"
-          min="1"
-          max="10"
-          value={formData.rating}
-          onChange={handleChange}
-        />
-      </div>
-      <div>
-        <label htmlFor="review">Review:</label>
-        <textarea
-          id="review"
-          name="review"
-          value={formData.review}
-          onChange={handleChange}
-        />
-      </div>
-      <div>
-        <label htmlFor="image">Image URL:</label>
-        <input
-          id="image"
-          name="image"
-          type="text"
-          value={formData.image}
-          onChange={handleChange}
-        />
-      </div>
-      {/* Form field to add tags can be added here */}
-      <button type="submit" style={{marginTop: '10px'}}>Add Game</button>
-    </form>
-  );
+    const handleSubmit = (event) => {
+        event.preventDefault();
+        const dataToSubmit = {
+            ...gameData,
+            rating: Number(gameData.rating),  // Ensure rating is a number
+            tags: gameData.tags.split(",").map((tag) => tag.trim()) // Split the string by commas and trim whitespace to recreate the tags array
+        };
+        onSubmit(dataToSubmit, gameToUpdate ? 'update' : 'add'); // Use 'update' or 'add' based on whether gameToUpdate is defined
+        setGameData({
+            name: "",
+            rating: 0,
+            review: "",
+            image: "",
+            tags: "",
+        }); // Reset form after submission
+    };
+
+    return (
+        <form onSubmit={handleSubmit}>
+            <input
+                name="name"
+                value={gameData.name}
+                onChange={handleChange}
+                placeholder="Game name"
+                required
+            />
+            <input
+                name="rating"
+                type="number"
+                value={gameData.rating}
+                onChange={handleChange}
+                placeholder="Rating"
+                required
+            />
+            <textarea
+                name="review"
+                value={gameData.review}
+                onChange={handleChange}
+                placeholder="Review"
+            />
+            <input
+                name="image"
+                value={gameData.image}
+                onChange={handleChange}
+                placeholder="Image URL"
+            />
+            <input
+                name="tags"
+                value={gameData.tags}
+                onChange={handleChange}
+                placeholder="Tags (comma-separated)"
+            />
+            <button type="submit">{gameToUpdate ? "Update Game" : "Add Game"}</button>
+        </form>
+    );
 }
 
 export default GameForm;
