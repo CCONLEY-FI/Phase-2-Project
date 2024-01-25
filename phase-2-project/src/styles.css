@@ -1,0 +1,225 @@
+/* styles.css */
+body {
+    background-color: #2c2c2c;
+    color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #f5f5f5;
+}
+
+button {
+    background-color: #4e4e4e;
+    color: #f5f5f5;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6e6e6e;
+}
+
+input {
+    background-color: #4e4e4e;
+    color: #f5f5f5;
+    border: none;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    width: 70%;
+    height: 1.67em;
+}
+
+input::placeholder {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+nav {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Game-Management {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.Game-Management input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.Game-Management button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.Game-Management button:hover {
+    background-color: #45a049;
+}
+
+.nav-link {
+    margin: 0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+    background-color: #e2e6ea;
+}
+
+.nav-button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-button:hover {
+    background-color: #0056b3;
+}
+
+.search-bar-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.game-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+}
+
+.game-element {
+    flex: 1 0 25%;
+    display: flex;
+    min-width: 200px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    background-color: #4e4e4e;
+    border-radius: 10px;
+    margin: 3%;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.game-management-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.game-management-element {
+    flex: 0 0 calc(20% - 20px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #536878;
+}
+
+.game-element img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.game-info {
+    width: 100%;
+    justify-content: center;
+    background-color: slategrey;
+    /* padding: 5px; */
+    border-radius: 5px;
+}
+
+.game-review,
+.game-rating {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.game-tags,
+.tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.game-tag {
+    justify-content: center;
+    background-color: lightblue;
+    color: #333;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.review-box,
+.game-form {
+    width: 40%;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.review-box textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    text-align: center;
+}
