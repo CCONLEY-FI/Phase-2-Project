@@ -17,16 +17,17 @@ function App() {
     localStorage.setItem("user", JSON.stringify(user));
   };
 
+  
   const handleLogout = () => {
-    setUser(null);
-    localStorage.removeItem("user");
+    setUser(null); // Clear logged in user
+    localStorage.removeItem("user"); // Remove user from local storage
   };
 
   return (
     <Router>
-      <Navbar user={user} onLogout={handleLogout} />
+      <Navbar user={user} onLogout={handleLogout} /> {/* Pass the user and onLogout props to the Navbar component */}
       <Routes>
-        <Route path="/" element={<GameList />} />
+        <Route path="/" element={<GameList />} /> {/* dont need to pass props to the GameList component */}
         <Route path="/manage-games" element={user ? <GameManagement /> : <Navigate to="/login" />} />
         <Route path="/login" element={user ? <Navigate to="/" /> : <Login onLogin={handleLogin} error={loginError} />} />
       </Routes>

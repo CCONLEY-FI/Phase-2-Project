@@ -61,7 +61,7 @@ function Login({ onLogin, error }) {
 
     return (
         <>
-            <form onSubmit={handleSubmit}>
+            <form className='login-form' onSubmit={handleSubmit}>
                 <input
                     type='text'
                     value={username}
@@ -79,10 +79,10 @@ function Login({ onLogin, error }) {
                 <button type='submit' disabled={isLoading}>
                     {isLoading ? "Loading..." : "Login"}
                 </button>
-                {error && <p>{error}</p>}
+                {error && <div className="login-form-error">{error}</div>}
             </form>
 
-            <form onSubmit={handleRegister}>
+            <form className='login-form' onSubmit={handleRegister}>
                 <input
                     type='text'
                     value={newUsername}

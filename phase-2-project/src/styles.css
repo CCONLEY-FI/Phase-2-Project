@@ -223,3 +223,39 @@ nav {
     font-size: 16px;
     text-align: center;
 }
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin: 0 calc(50% - 150px);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.login-form input {
+    margin-bottom: 20px;
+}
+
+.login-form button {
+    width: 100%;
+    padding: 10px;
+    font-size: 1.2em;
+}
+.login-form button.login {
+    background-color: #007bff;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.login-form button.register {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.login-form + .login-form {
+    margin-top: 20px;
+}
+.login-form-error {
+    color: #ff0000;
+    margin-bottom: 10px;
+}
