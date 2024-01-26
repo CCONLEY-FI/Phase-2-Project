@@ -79,7 +79,7 @@ function Login({ onLogin, error }) {
                 <button type='submit' disabled={isLoading}>
                     {isLoading ? "Loading..." : "Login"}
                 </button>
-                {error && <div className="login-form-error">{error}</div>}
+                {error && <div className='login-form-error'>{error}</div>}
             </form>
 
             <form className='login-form' onSubmit={handleRegister}>

@@ -12,7 +12,9 @@ function Navbar({ user, onLogout }) {
     };
 
     return (
-        <nav>
+        <nav className='nav'>
+            <h1>Let's Play a Game</h1>
+
             <NavLink to='/' className='nav-link'>
                 Home
             </NavLink>
@@ -21,7 +23,7 @@ function Navbar({ user, onLogout }) {
                     <NavLink to='/manage-games' className='nav-link'>
                         Manage Games
                     </NavLink>
-                    <span>Welcome, {user.username}!</span>
+                    <span className='nav-link'>Welcome, {user.username}!</span>
                     <button onClick={handleLogout} className='button'>
                         Logout
                     </button>
